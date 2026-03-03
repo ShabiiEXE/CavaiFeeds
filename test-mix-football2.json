@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2000001,
+    "date": "2026-03-03T11:00:00+00:00",
+    "status": "1H",
+    "minute": 23,
+    "round": "Group Stage - 1",
+    "display_time": "10:00",
+    "home": {
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/27.png",
+      "score": 1,
+      "display_score": "1"
+    },
+    "away": {
+      "name": "Italy",
+      "logo": "https://media.api-sports.io/football/teams/5.png",
+      "score": 0,
+      "display_score": "0"
+    }
+  },
+  {
+    "id": 2000002,
+    "date": "2026-03-04T14:00:00+00:00",
+    "status": "NS",
+    "minute": null,
+    "round": "Group Stage - 1",
+    "display_time": "14:00",
+    "home": {
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png",
+      "score": null,
+      "display_score": "-"
+    },
+    "away": {
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/9.png",
+      "score": null,
+      "display_score": "-"
+    }
+  },
+  {
+    "id": 2000003,
+    "date": "2026-03-04T18:00:00+00:00",
+    "status": "NS",
+    "minute": null,
+    "round": "Group Stage - 1",
+    "display_time": "18:00",
+    "home": {
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png",
+      "score": null,
+      "display_score": "-"
+    },
+    "away": {
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/11.png",
+      "score": null,
+      "display_score": "-"
+    }
+  }
+]
