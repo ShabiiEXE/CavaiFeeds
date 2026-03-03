@@ -58,25 +58,5 @@
       "score": null,
       "display_score": "-"
     }
-  },
-  {
-    "id": 1489373,
-    "date": "2026-06-13T19:00:00+00:00",
-    "status": "NS",
-    "minute": null,
-    "round": "Group Stage - 1",
-    "display_time": "19:00",
-    "home": {
-      "name": "Qatar",
-      "logo": "https://media.api-sports.io/football/teams/1569.png",
-      "score": null,
-      "display_score": "-"
-    },
-    "away": {
-      "name": "Switzerland",
-      "logo": "https://media.api-sports.io/football/teams/15.png",
-      "score": null,
-      "display_score": "-"
-    }
   }
 ]
