@@ -1,60 +1,60 @@
 [
   {
-    "id": 1489401,
-    "date": "2026-06-11T19:00:00+00:00",
+    "id": 2000001,
+    "date": "2026-03-03T10:00:00+00:00",
     "status": "1H",
-    "minute": 32,
+    "minute": 23,
     "round": "Group Stage - 1",
-    "display_time": "19:00",
+    "display_time": "10:00",
     "home": {
-      "name": "Brazil",
-      "logo": "https://media.api-sports.io/football/teams/6.png",
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/27.png",
       "score": 1,
       "display_score": "1"
     },
     "away": {
-      "name": "Germany",
-      "logo": "https://media.api-sports.io/football/teams/7.png",
+      "name": "Italy",
+      "logo": "https://media.api-sports.io/football/teams/5.png",
       "score": 0,
       "display_score": "0"
     }
   },
   {
-    "id": 1489369,
-    "date": "2026-06-12T19:00:00+00:00",
+    "id": 2000002,
+    "date": "2026-03-03T14:00:00+00:00",
     "status": "NS",
     "minute": null,
     "round": "Group Stage - 1",
-    "display_time": "19:00",
+    "display_time": "14:00",
     "home": {
-      "name": "Mexico",
-      "logo": "https://media.api-sports.io/football/teams/16.png",
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png",
       "score": null,
       "display_score": "-"
     },
     "away": {
-      "name": "South Africa",
-      "logo": "https://media.api-sports.io/football/teams/1531.png",
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/9.png",
       "score": null,
       "display_score": "-"
     }
   },
   {
-    "id": 1489370,
-    "date": "2026-06-13T01:00:00+00:00",
+    "id": 2000003,
+    "date": "2026-03-03T18:00:00+00:00",
     "status": "NS",
     "minute": null,
     "round": "Group Stage - 1",
-    "display_time": "01:00",
+    "display_time": "18:00",
     "home": {
-      "name": "USA",
-      "logo": "https://media.api-sports.io/football/teams/2384.png",
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png",
       "score": null,
       "display_score": "-"
     },
     "away": {
-      "name": "Paraguay",
-      "logo": "https://media.api-sports.io/football/teams/2380.png",
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/11.png",
       "score": null,
       "display_score": "-"
     }
